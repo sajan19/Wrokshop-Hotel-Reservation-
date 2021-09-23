@@ -1,0 +1,3 @@
+rootProject.name = 'Hotel Reservation System'
+include 'Hotel'
+
