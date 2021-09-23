@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class HotelReservationSystemTest {
-    //Test to check Sad Mood
+    //Test to check Hotel Name
     @Test
     void addGivenHotelName() throws Exception {
         ListOfHotel hotelRes = new ListOfHotel();
